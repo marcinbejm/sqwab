@@ -1,0 +1,14 @@
+#tv {
+	border: 1px solid rgb(0,0,0);
+	float:left;
+}
+
+#tv span {
+	width:1px;
+	height: 1px;
+	float: left;
+}
+
+.clear {
+	clear: both;
+}
